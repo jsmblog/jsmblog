@@ -16,9 +16,6 @@
   <a href="https://github.com/100rabhcsmc" target="_blank">
     <img src="https://img.shields.io/github/followers/100rabhcsmc?logo=github&style=for-the-badge" alt="GitHub Followers" />
   </a>
-  <a href="https://dev.to/100rabhcsmc" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-100rabhcsmc-white?logo=dev.to&style=for-the-badge" alt="DEV.to" />
-  </a>
 </p>
 
 <a align="right">
@@ -89,6 +86,3 @@
 - [Create strong passwords](https://passran.netlify.app/)
 - [Find Nearby Gyms](https://gym-book.netlify.app/)
 <!-- BLOG-POST-LIST:END -->
-
----
-![Footer GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
