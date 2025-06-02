@@ -1,67 +1,108 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h1 align="center">
+  Hi 👋, I’m <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Jefferson Mera</a>
+</h1>
+<h3 align="center">
+  A passionate Mobile & Full-Stack Developer from Ecuador 🇪🇨
+</h3>
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
+  <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
 </p>
 
-### Blogs posts
+<p align="center">
+  <a href="https://twitter.com/100rabhcsmc" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+  <a href="https://github.com/100rabhcsmc" target="_blank">
+    <img src="https://img.shields.io/github/followers/100rabhcsmc?logo=github&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://dev.to/100rabhcsmc" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-100rabhcsmc-white?logo=dev.to&style=for-the-badge" alt="DEV.to" />
+  </a>
+</p>
+
+<a align="right">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="400" height="300" />
+</a>
+
+---
+
+## 🌱 About Me
+- 📱 Currently working on a Mobile App (Ionic-React).
+- 💼 Available for freelance and full-stack projects.
+- 🎓 Learning and practicing: **Ionic**, **100DaysOfSwift**.
+- 📝 I regularly write technical articles on [DEV.to](https://dev.to/100rabhcsmc).
+- 💬 Ask me about **React.js**, **Ionic**, **Node.js**, **JavaScript**.
+- 📫 How to reach me: **jsmblog19@gmail.com**
+- 📄 Read my resume: [Resume PDF](https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf)
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming & Frameworks
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Frontend:** React.js, Ionic, HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Databases:** MySQL, Firebase Firestore, Firebase Realtime Database
+- **Cloud & Services:** Google Cloud Services (Cloud Functions, Firestore, Authentication), Firebase Authentication, Firebase Storage
+- **Other Tools:** RESTful APIs, Git & GitHub, GitHub Actions
+
+### 🎨 Design & UI/UX
+- **Design Tools:** Figma, Canva
+- **Version Control:** Git, GitHub
+- **Collaboration:** Slack, Trello, Jira
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jefferson-mera-100rabhcsmc/" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/100rabhcsmc" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" />
+  </a>
+  <a href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Stack Overflow" />
+  </a>
+  <a href="https://dev.to/100rabhcsmc" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png" alt="Blog" />
+  </a>
+  <a href="https://instagram.com/100rabhch" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/100rabhcsmc" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="Twitter" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" alt="YouTube" />
+  </a>
+  <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.icons8.com/plasticine/0.5x/resume.png" alt="Resume" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=100rabhcsmc&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabhcsmc&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📝 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+- [Automatize Google Forms in Seconds with AI](https://fast-forms.netlify.app/)
+- [Create strong passwords](https://passran.netlify.app/)
+- [Find Nearby Gyms](https://gym-book.netlify.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
+![Footer GIF](https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif)
