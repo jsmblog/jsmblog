@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I’m <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Jefferson Mera</a>
+  Hi 👋, I’m <a href="https://cv-jsm.netlify.app/" target="_blank">Jefferson Mera</a>
 </h1>
 <h3 align="center">
   A passionate Mobile & Full-Stack Developer from Ecuador 🇪🇨
@@ -30,11 +30,10 @@
 ## 🌱 About Me
 - 📱 Currently working on a Mobile App (Ionic-React).
 - 💼 Available for freelance and full-stack projects.
-- 🎓 Learning and practicing: **Ionic**, **100DaysOfSwift**.
+- 🎓 Learning and practicing: **Ionic**, **100DaysOFlutter**.
 - 📝 I regularly write technical articles on [DEV.to](https://dev.to/100rabhcsmc).
 - 💬 Ask me about **React.js**, **Ionic**, **Node.js**, **JavaScript**.
 - 📫 How to reach me: **jsmblog19@gmail.com**
-- 📄 Read my resume: [Resume PDF](https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf)
 
 ---
 
@@ -51,7 +50,7 @@
 ### 🎨 Design & UI/UX
 - **Design Tools:** Figma, Canva
 - **Version Control:** Git, GitHub
-- **Collaboration:** Slack, Trello, Jira
+- **Collaboration:** Slack, others
 
 ---
 
@@ -61,26 +60,14 @@
   <a href="https://www.linkedin.com/in/jefferson-mera-100rabhcsmc/" target="_blank" style="margin: 0 8px;">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/100rabhcsmc" target="_blank" style="margin: 0 8px;">
+  <a href="https://github.com/jsmblog/" target="_blank" style="margin: 0 8px;">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" />
-  </a>
-  <a href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile" target="_blank" style="margin: 0 8px;">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png" alt="Stack Overflow" />
-  </a>
-  <a href="https://dev.to/100rabhcsmc" target="_blank" style="margin: 0 8px;">
-    <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png" alt="Blog" />
   </a>
   <a href="https://instagram.com/100rabhch" target="_blank" style="margin: 0 8px;">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram" />
   </a>
-  <a href="https://twitter.com/100rabhcsmc" target="_blank" style="margin: 0 8px;">
-    <img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" alt="Twitter" />
-  </a>
   <a href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber" target="_blank" style="margin: 0 8px;">
     <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" alt="YouTube" />
-  </a>
-  <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="_blank" style="margin: 0 8px;">
-    <img src="https://img.icons8.com/plasticine/0.5x/resume.png" alt="Resume" />
   </a>
 </p>
 
@@ -104,5 +91,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-![Footer GIF](https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif)
+![Footer GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
