@@ -69,15 +69,24 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
+## 🛠️ Skills
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=100rabhcsmc&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabhcsmc&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&style=for-the-badge" alt="Ionic" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-003545?logo=mysql&style=for-the-badge" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=for-the-badge" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&style=for-the-badge" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&style=for-the-badge" alt="Express" />
+  <br/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=for-the-badge" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&style=for-the-badge" alt="Canva" />
 </p>
 
----
 
 ## 📝 Blog Posts
 
