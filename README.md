@@ -6,13 +6,10 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" />
+  <img src="https://portf-jsm.netlify.app/" alt="100rabhcsmc" />
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/100rabhcsmc" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
   <a href="https://github.com/100rabhcsmc" target="_blank">
     <img src="https://img.shields.io/github/followers/100rabhcsmc?logo=github&style=for-the-badge" alt="GitHub Followers" />
   </a>
@@ -28,7 +25,7 @@
 - 📱 Currently working on a Mobile App (Ionic-React).
 - 💼 Available for freelance and full-stack projects.
 - 🎓 Learning and practicing: **Ionic**, **100DaysOFlutter**.
-- 📝 I regularly write technical articles on [DEV.to](https://dev.to/100rabhcsmc).
+- 📝 I regularly write technical articles on [DEV.to](https://portf-jsm.netlify.app/).
 - 💬 Ask me about **React.js**, **Ionic**, **Node.js**, **JavaScript**.
 - 📫 How to reach me: **jsmblog19@gmail.com**
 
@@ -54,18 +51,18 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jefferson-mera-100rabhcsmc/" target="_blank" style="margin: 0 8px;">
+  <a href="https://www.linkedin.com/in/jefferson-m-8194a8360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="margin: 0 8px;">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
   </a>
   <a href="https://github.com/jsmblog/" target="_blank" style="margin: 0 8px;">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/100rabhch" target="_blank" style="margin: 0 8px;">
+<!--   <a href="https://instagram.com/100rabhch" target="_blank" style="margin: 0 8px;">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber" target="_blank" style="margin: 0 8px;">
+  </a> -->
+<!--   <a href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber" target="_blank" style="margin: 0 8px;">
     <img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" alt="YouTube" />
-  </a>
+  </a> -->
 </p>
 
 ---
